@@ -26,9 +26,9 @@ const config = {
           "success": "#5be6ba",
           "warning": "#bd7905",
           "error": "#fa2e2e",
-          body:{
-            "background": "#f3f4f6",
-          }
+          // body:{
+          //   "background": "#f3f4f6",
+          // }
         },
       },
     ],
